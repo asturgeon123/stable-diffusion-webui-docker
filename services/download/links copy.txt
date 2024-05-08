@@ -1,11 +1,5 @@
-https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=c7b5d3d1c167f56fc19e49744fd9ffa1
-  out=Stable-diffusion/ponyDiffusionV6XL.safetensors
-https://civitai.com/api/download/models/450029?token=c7b5d3d1c167f56fc19e49744fd9ffa1
-  out=Lora/lineArtMonoStyle.safetensors
-https://civitai.com/api/download/models/436219?token=c7b5d3d1c167f56fc19e49744fd9ffa1
-  out=Lora/incaseStyle.safetensors
-https://civitai.com/api/download/models/382152?token=c7b5d3d1c167f56fc19e49744fd9ffa1
-  out=Lora/expressiveHentaiStyle.safetensors
+https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt
+  out=Stable-diffusion/v1-5-pruned-emaonly.ckpt
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
   out=VAE/vae-ft-mse-840000-ema-pruned.ckpt
 https://huggingface.co/runwayml/stable-diffusion-inpainting/resolve/main/sd-v1-5-inpainting.ckpt
